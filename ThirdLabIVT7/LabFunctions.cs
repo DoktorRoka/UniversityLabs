@@ -455,15 +455,11 @@ namespace ThirdLabIVT7
             public bool AreSymmetricSumsEqual(int[] array)
             {
                 int n = array.Length;
-                if (n < 2) return true; 
 
-                int sum = array[0] + array[n - 1];
-                for (int i = 1; i < n / 2; i++)
+                for (int i = 0; i < n / 2; i++)
                 {
-                    if (array[i] + array[n - i - 1] != sum)
-                    {
+                    if (array[i] != array[n - 1 - i])
                         return false;
-                    }
                 }
 
                 return true;

@@ -125,14 +125,35 @@ internal class Program
 
                 break;
             case 10:
+                Console.Write("Введите четное число элементов массива: ");
+                int number_of_elements;
+                while (true)
+                {
+                    if (int.TryParse(Console.ReadLine(), out number_of_elements) && number_of_elements > 0 && number_of_elements % 2 == 0)
+                        break;
+                    Console.WriteLine("Число должно быть положительным");
+                }
 
-                int[] array_case10 = { 1, 2, 3, 3, 2, 1 };
+                int[] array_case10 = new int[number_of_elements];
+                Console.WriteLine($"Введите {number_of_elements} элементов массива:");
+                for (int i = 0; i < number_of_elements; i++)
+                {
+                    while (true)
+                    {
+                        Console.Write($"Элемент [{i}]: ");
+                        if (int.TryParse(Console.ReadLine(), out int value))
+                        {
+                            array_case10[i] = value;
+                            break;
+                        }
+                        Console.WriteLine("Число должно быть целым");
+                    }
+                }
 
                 SymmetryChecker checker = new SymmetryChecker();
                 bool result_case10 = checker.AreSymmetricSumsEqual(array_case10);
 
                 Console.WriteLine(result_case10 ? "TRUE" : "FALSE");
-
                 break;
 
         }
