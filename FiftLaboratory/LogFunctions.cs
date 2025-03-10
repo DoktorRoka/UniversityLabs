@@ -31,25 +31,47 @@ namespace FifthLaboratoryIVT7
             lastActionTime = DateTime.Now;
         }
 
-        public List<LogEntry> LoadLog(string filePath)
-        {
-            var log = new List<LogEntry>();
-            if (File.Exists(filePath))
-            {
-                var lines = File.ReadAllLines(filePath);
-                foreach (var line in lines)
-                {
-                    var parts = line.Split(' ', 3);
-                    log.Add(new LogEntry
-                    {
-                        Timestamp = DateTime.Parse(parts[0]),
-                        Action = parts[2].Split(' ')[0],
-                        RecordInfo = parts[2].Split('"')[1]
-                    });
-                }
-            }
-            return log;
-        }
+         public List<LogEntry> LoadLog(string filePath)
+         {
+             var log = new List<LogEntry>();
+             if (File.Exists(filePath))
+             {
+                 var lines = File.ReadAllLines(filePath);
+                 foreach (var line in lines)
+                 {
+                     var parts = line.Split(" - ", StringSplitOptions.None);
+                     if (parts.Length != 2)
+                     {
+                         Console.WriteLine("Неверный формат строки: " + line);
+                         continue;
+                     }
+        
+                     if (!DateTime.TryParse(parts[0], out DateTime timestamp))
+                     {
+                         Console.WriteLine("Неверный формат даты: " + parts[0]);
+                         continue;
+                     }
+        
+                     var subParts = parts[1].Split(": ", StringSplitOptions.None);
+                     if (subParts.Length != 2)
+                     {
+                         Console.WriteLine("Неверный формат действия и данных: " + parts[1]);
+                         continue;
+                     }
+        
+                     string action = subParts[0];      
+                     string recordInfo = subParts[1];    
+        
+                     log.Add(new LogEntry
+                     {
+                         Timestamp = timestamp,
+                         Action = action,
+                         RecordInfo = recordInfo
+                     });
+                 }
+             }
+             return log;
+         }
 
         public void SaveLog(List<LogEntry> log, string filePath)
         {
