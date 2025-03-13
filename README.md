@@ -11,3 +11,5 @@
 [Четвертая лабораторная, 7 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/FourthLabIVT7)
 
 [Пятая лабораторная, 7 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/FiftLaboratory)
+
+[Шестая лабораторная, 7 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Lab6Var7_IVT1_2semestr)
