@@ -1,0 +1,14 @@
+C:\Users\roka\source\repos\Lab6Var7_IVT1_2semestr\Lab6Var7_IVT1_2semestr\bin\Debug\net7.0\Lab6Var7_IVT1_2semestr.exe
+C:\Users\roka\source\repos\Lab6Var7_IVT1_2semestr\Lab6Var7_IVT1_2semestr\bin\Debug\net7.0\Lab6Var7_IVT1_2semestr.deps.json
+C:\Users\roka\source\repos\Lab6Var7_IVT1_2semestr\Lab6Var7_IVT1_2semestr\bin\Debug\net7.0\Lab6Var7_IVT1_2semestr.runtimeconfig.json
+C:\Users\roka\source\repos\Lab6Var7_IVT1_2semestr\Lab6Var7_IVT1_2semestr\bin\Debug\net7.0\Lab6Var7_IVT1_2semestr.dll
+C:\Users\roka\source\repos\Lab6Var7_IVT1_2semestr\Lab6Var7_IVT1_2semestr\bin\Debug\net7.0\Lab6Var7_IVT1_2semestr.pdb
+C:\Users\roka\source\repos\Lab6Var7_IVT1_2semestr\Lab6Var7_IVT1_2semestr\obj\Debug\net7.0\Lab6Var7_IVT1_2semestr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roka\source\repos\Lab6Var7_IVT1_2semestr\Lab6Var7_IVT1_2semestr\obj\Debug\net7.0\Lab6Var7_IVT1_2semestr.AssemblyInfoInputs.cache
+C:\Users\roka\source\repos\Lab6Var7_IVT1_2semestr\Lab6Var7_IVT1_2semestr\obj\Debug\net7.0\Lab6Var7_IVT1_2semestr.AssemblyInfo.cs
+C:\Users\roka\source\repos\Lab6Var7_IVT1_2semestr\Lab6Var7_IVT1_2semestr\obj\Debug\net7.0\Lab6Var7_IVT1_2semestr.csproj.CoreCompileInputs.cache
+C:\Users\roka\source\repos\Lab6Var7_IVT1_2semestr\Lab6Var7_IVT1_2semestr\obj\Debug\net7.0\Lab6Var7_IVT1_2semestr.dll
+C:\Users\roka\source\repos\Lab6Var7_IVT1_2semestr\Lab6Var7_IVT1_2semestr\obj\Debug\net7.0\refint\Lab6Var7_IVT1_2semestr.dll
+C:\Users\roka\source\repos\Lab6Var7_IVT1_2semestr\Lab6Var7_IVT1_2semestr\obj\Debug\net7.0\Lab6Var7_IVT1_2semestr.pdb
+C:\Users\roka\source\repos\Lab6Var7_IVT1_2semestr\Lab6Var7_IVT1_2semestr\obj\Debug\net7.0\Lab6Var7_IVT1_2semestr.genruntimeconfig.cache
+C:\Users\roka\source\repos\Lab6Var7_IVT1_2semestr\Lab6Var7_IVT1_2semestr\obj\Debug\net7.0\ref\Lab6Var7_IVT1_2semestr.dll
