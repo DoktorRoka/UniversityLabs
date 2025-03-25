@@ -1,0 +1,14 @@
+C:\Users\roka\source\repos\Lab7Variant7_IVT1\Lab7Variant7_IVT1\bin\Debug\net7.0\Lab7Variant7_IVT1.exe
+C:\Users\roka\source\repos\Lab7Variant7_IVT1\Lab7Variant7_IVT1\bin\Debug\net7.0\Lab7Variant7_IVT1.deps.json
+C:\Users\roka\source\repos\Lab7Variant7_IVT1\Lab7Variant7_IVT1\bin\Debug\net7.0\Lab7Variant7_IVT1.runtimeconfig.json
+C:\Users\roka\source\repos\Lab7Variant7_IVT1\Lab7Variant7_IVT1\bin\Debug\net7.0\Lab7Variant7_IVT1.dll
+C:\Users\roka\source\repos\Lab7Variant7_IVT1\Lab7Variant7_IVT1\bin\Debug\net7.0\Lab7Variant7_IVT1.pdb
+C:\Users\roka\source\repos\Lab7Variant7_IVT1\Lab7Variant7_IVT1\obj\Debug\net7.0\Lab7Variant7_IVT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roka\source\repos\Lab7Variant7_IVT1\Lab7Variant7_IVT1\obj\Debug\net7.0\Lab7Variant7_IVT1.AssemblyInfoInputs.cache
+C:\Users\roka\source\repos\Lab7Variant7_IVT1\Lab7Variant7_IVT1\obj\Debug\net7.0\Lab7Variant7_IVT1.AssemblyInfo.cs
+C:\Users\roka\source\repos\Lab7Variant7_IVT1\Lab7Variant7_IVT1\obj\Debug\net7.0\Lab7Variant7_IVT1.csproj.CoreCompileInputs.cache
+C:\Users\roka\source\repos\Lab7Variant7_IVT1\Lab7Variant7_IVT1\obj\Debug\net7.0\Lab7Variant7_IVT1.dll
+C:\Users\roka\source\repos\Lab7Variant7_IVT1\Lab7Variant7_IVT1\obj\Debug\net7.0\refint\Lab7Variant7_IVT1.dll
+C:\Users\roka\source\repos\Lab7Variant7_IVT1\Lab7Variant7_IVT1\obj\Debug\net7.0\Lab7Variant7_IVT1.pdb
+C:\Users\roka\source\repos\Lab7Variant7_IVT1\Lab7Variant7_IVT1\obj\Debug\net7.0\Lab7Variant7_IVT1.genruntimeconfig.cache
+C:\Users\roka\source\repos\Lab7Variant7_IVT1\Lab7Variant7_IVT1\obj\Debug\net7.0\ref\Lab7Variant7_IVT1.dll
