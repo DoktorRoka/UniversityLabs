@@ -24,4 +24,5 @@
 Информатика
 
 [Третья лабораторная, 7 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laboratornaya3IVT7App1)
+
 [Третья лабораторная, 7 вариант карты](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laboratornaya3IVT1_variant7_KARTI)
