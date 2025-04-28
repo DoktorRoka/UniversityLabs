@@ -1,0 +1,14 @@
+C:\Users\roka\source\repos\Laba9_variant7_Part2\Laba9_variant7_Part2\bin\Debug\net7.0\Laba9_variant7_Part2.exe
+C:\Users\roka\source\repos\Laba9_variant7_Part2\Laba9_variant7_Part2\bin\Debug\net7.0\Laba9_variant7_Part2.deps.json
+C:\Users\roka\source\repos\Laba9_variant7_Part2\Laba9_variant7_Part2\bin\Debug\net7.0\Laba9_variant7_Part2.runtimeconfig.json
+C:\Users\roka\source\repos\Laba9_variant7_Part2\Laba9_variant7_Part2\bin\Debug\net7.0\Laba9_variant7_Part2.dll
+C:\Users\roka\source\repos\Laba9_variant7_Part2\Laba9_variant7_Part2\bin\Debug\net7.0\Laba9_variant7_Part2.pdb
+C:\Users\roka\source\repos\Laba9_variant7_Part2\Laba9_variant7_Part2\obj\Debug\net7.0\Laba9_variant7_Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roka\source\repos\Laba9_variant7_Part2\Laba9_variant7_Part2\obj\Debug\net7.0\Laba9_variant7_Part2.AssemblyInfoInputs.cache
+C:\Users\roka\source\repos\Laba9_variant7_Part2\Laba9_variant7_Part2\obj\Debug\net7.0\Laba9_variant7_Part2.AssemblyInfo.cs
+C:\Users\roka\source\repos\Laba9_variant7_Part2\Laba9_variant7_Part2\obj\Debug\net7.0\Laba9_variant7_Part2.csproj.CoreCompileInputs.cache
+C:\Users\roka\source\repos\Laba9_variant7_Part2\Laba9_variant7_Part2\obj\Debug\net7.0\Laba9_variant7_Part2.dll
+C:\Users\roka\source\repos\Laba9_variant7_Part2\Laba9_variant7_Part2\obj\Debug\net7.0\refint\Laba9_variant7_Part2.dll
+C:\Users\roka\source\repos\Laba9_variant7_Part2\Laba9_variant7_Part2\obj\Debug\net7.0\Laba9_variant7_Part2.pdb
+C:\Users\roka\source\repos\Laba9_variant7_Part2\Laba9_variant7_Part2\obj\Debug\net7.0\Laba9_variant7_Part2.genruntimeconfig.cache
+C:\Users\roka\source\repos\Laba9_variant7_Part2\Laba9_variant7_Part2\obj\Debug\net7.0\ref\Laba9_variant7_Part2.dll

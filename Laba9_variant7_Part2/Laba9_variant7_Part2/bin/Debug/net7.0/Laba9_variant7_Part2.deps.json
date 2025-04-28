@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Laba9_variant7_Part2/1.0.0": {
+        "runtime": {
+          "Laba9_variant7_Part2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laba9_variant7_Part2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
