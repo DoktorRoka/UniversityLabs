@@ -1,0 +1,22 @@
+﻿<Window x:Class="Laba4Informatika.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Laba4Informatika"
+        mc:Ignorable="d"
+        Title="Меню" Height="450" Width="800" Icon="/iconka.ico">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF52CAB2" Offset="0.007"/>
+                <GradientStop Color="#FF679FD2" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="b_task1" Content="Задание 1" HorizontalAlignment="Center" Margin="0,61,0,0" VerticalAlignment="Top" Height="53" Width="208" Click="b_task1_Click"/>
+        <Button x:Name="b_task2" Content="Задание 2" HorizontalAlignment="Center" Margin="0,140,0,0" VerticalAlignment="Top" Height="53" Width="208" Click="b_task2_Click"/>
+        <Button x:Name="b_task3" Content="Задание 3" HorizontalAlignment="Center" Margin="0,217,0,0" VerticalAlignment="Top" Height="53" Width="208" Click="b_task3_Click"/>
+        <Button x:Name="b_task4" Content="Задание 4" HorizontalAlignment="Center" Margin="0,290,0,0" VerticalAlignment="Top" Height="53" Width="208" Click="b_task4_Click"/>
+
+    </Grid>
+</Window>
