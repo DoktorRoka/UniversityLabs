@@ -32,4 +32,4 @@
 
 [Третья лабораторная, 7 вариант карты](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laboratornaya3IVT1_variant7_KARTI)
 
-[Четвертая лабораторная, 7 вариант] (https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba4Informatika)
+[Четвертая лабораторная, 7 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba4Informatika)
