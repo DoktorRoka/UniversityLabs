@@ -1,0 +1,14 @@
+C:\Users\roka\source\repos\Labolatornaya10IVT1_variant7\Labolatornaya10IVT1_variant7\bin\Debug\net7.0\Labolatornaya10IVT1_variant7.exe
+C:\Users\roka\source\repos\Labolatornaya10IVT1_variant7\Labolatornaya10IVT1_variant7\bin\Debug\net7.0\Labolatornaya10IVT1_variant7.deps.json
+C:\Users\roka\source\repos\Labolatornaya10IVT1_variant7\Labolatornaya10IVT1_variant7\bin\Debug\net7.0\Labolatornaya10IVT1_variant7.runtimeconfig.json
+C:\Users\roka\source\repos\Labolatornaya10IVT1_variant7\Labolatornaya10IVT1_variant7\bin\Debug\net7.0\Labolatornaya10IVT1_variant7.dll
+C:\Users\roka\source\repos\Labolatornaya10IVT1_variant7\Labolatornaya10IVT1_variant7\bin\Debug\net7.0\Labolatornaya10IVT1_variant7.pdb
+C:\Users\roka\source\repos\Labolatornaya10IVT1_variant7\Labolatornaya10IVT1_variant7\obj\Debug\net7.0\Labolatornaya10IVT1_variant7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roka\source\repos\Labolatornaya10IVT1_variant7\Labolatornaya10IVT1_variant7\obj\Debug\net7.0\Labolatornaya10IVT1_variant7.AssemblyInfoInputs.cache
+C:\Users\roka\source\repos\Labolatornaya10IVT1_variant7\Labolatornaya10IVT1_variant7\obj\Debug\net7.0\Labolatornaya10IVT1_variant7.AssemblyInfo.cs
+C:\Users\roka\source\repos\Labolatornaya10IVT1_variant7\Labolatornaya10IVT1_variant7\obj\Debug\net7.0\Labolatornaya10IVT1_variant7.csproj.CoreCompileInputs.cache
+C:\Users\roka\source\repos\Labolatornaya10IVT1_variant7\Labolatornaya10IVT1_variant7\obj\Debug\net7.0\Labolatornaya10IVT1_variant7.dll
+C:\Users\roka\source\repos\Labolatornaya10IVT1_variant7\Labolatornaya10IVT1_variant7\obj\Debug\net7.0\refint\Labolatornaya10IVT1_variant7.dll
+C:\Users\roka\source\repos\Labolatornaya10IVT1_variant7\Labolatornaya10IVT1_variant7\obj\Debug\net7.0\Labolatornaya10IVT1_variant7.pdb
+C:\Users\roka\source\repos\Labolatornaya10IVT1_variant7\Labolatornaya10IVT1_variant7\obj\Debug\net7.0\Labolatornaya10IVT1_variant7.genruntimeconfig.cache
+C:\Users\roka\source\repos\Labolatornaya10IVT1_variant7\Labolatornaya10IVT1_variant7\obj\Debug\net7.0\ref\Labolatornaya10IVT1_variant7.dll
