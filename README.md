@@ -24,6 +24,8 @@
 
 [Девятая лабораторная часть 3, 7 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba9_variant7_Part3)
 
+[Десятая лабораторная, 7 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Labolatornaya10IVT1_variant7)
+
 
 ------------------------------------------------------------------
 Информатика
