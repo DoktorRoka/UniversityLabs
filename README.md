@@ -1,6 +1,25 @@
 # Лаборатории с университета
 
-ИВТ-1
+ИВТ-1, 2 курс
+
+[Первая лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba1KaloshaMaksim_2kurs)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ИВТ-1, 1 курс
 
 [Первая лабораторная, 7 вариант](https://github.com/DoktorRoka/UniverSityLabs/tree/master/FirstLabIVT7)
 
