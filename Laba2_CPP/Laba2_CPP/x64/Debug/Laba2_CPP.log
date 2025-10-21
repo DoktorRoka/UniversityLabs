@@ -1,0 +1,4 @@
+﻿  Laba2_CPP.cpp
+C:\Users\roka\source\repos\Laba2_CPP\Laba2_CPP\Laba2_CPP.cpp(349,16): warning C4566: символ, представленный универсальным именем символа "\u0394", невозможно представить в текущей кодовой странице (1251)
+C:\Users\roka\source\repos\Laba2_CPP\Laba2_CPP\Laba2_CPP.cpp(428,13): warning C4566: символ, представленный универсальным именем символа "\u0394", невозможно представить в текущей кодовой странице (1251)
+  Laba2_CPP.vcxproj -> C:\Users\roka\source\repos\Laba2_CPP\x64\Debug\Laba2_CPP.exe
