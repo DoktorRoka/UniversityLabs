@@ -4,6 +4,7 @@
 
 [Первая лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba1KaloshaMaksim_2kurs)
 
+[Вторая лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba2_CPP)
 
 
 
