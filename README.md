@@ -10,7 +10,7 @@
   * [Третья лабораторная, 5 вариант, 1 часть](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba3_cplusplus/Laba3_CPP_part1)
   * [Третья лабораторная, 5 вариант, 2 часть](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba3_cplusplus/Laba3_CPP_part2)
     
-
+[Четвертая лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba4Prog)
 
 
 
