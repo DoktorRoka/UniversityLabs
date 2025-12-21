@@ -12,8 +12,9 @@
     
 [Четвертая лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba4Prog)
 
-
-
+[Пятая лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba5Prog)
+ * [Пятая лабораторная, 5 вариант, задания 1-5](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba5Prog/Laba5Prog_task1-5)
+ * [Пятая лабораторная, 5 вариант, задание 6](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba5Prog/Laba5Prog_task6)
 
 
 
