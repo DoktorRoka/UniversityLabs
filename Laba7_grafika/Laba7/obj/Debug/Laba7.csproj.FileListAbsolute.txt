@@ -1,0 +1,11 @@
+C:\Users\roka\source\repos\Laba7\Laba7\bin\Debug\Laba7.exe.config
+C:\Users\roka\source\repos\Laba7\Laba7\bin\Debug\Laba7.exe
+C:\Users\roka\source\repos\Laba7\Laba7\bin\Debug\Laba7.pdb
+C:\Users\roka\source\repos\Laba7\Laba7\obj\Debug\Laba7.csproj.AssemblyReference.cache
+C:\Users\roka\source\repos\Laba7\Laba7\obj\Debug\Laba7.Form1.resources
+C:\Users\roka\source\repos\Laba7\Laba7\obj\Debug\Laba7.Properties.Resources.resources
+C:\Users\roka\source\repos\Laba7\Laba7\obj\Debug\Laba7.csproj.GenerateResource.cache
+C:\Users\roka\source\repos\Laba7\Laba7\obj\Debug\Laba7.csproj.CoreCompileInputs.cache
+C:\Users\roka\source\repos\Laba7\Laba7\obj\Debug\Laba7.exe
+C:\Users\roka\source\repos\Laba7\Laba7\obj\Debug\Laba7.pdb
+C:\Users\roka\source\repos\Laba7\Laba7\obj\Debug\Laba7.exe.config
