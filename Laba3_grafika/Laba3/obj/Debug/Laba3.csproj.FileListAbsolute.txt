@@ -1,0 +1,10 @@
+C:\Users\04-user06\source\repos\Laba3\Laba3\bin\Debug\Laba3.exe.config
+C:\Users\04-user06\source\repos\Laba3\Laba3\bin\Debug\Laba3.exe
+C:\Users\04-user06\source\repos\Laba3\Laba3\bin\Debug\Laba3.pdb
+C:\Users\04-user06\source\repos\Laba3\Laba3\obj\Debug\Laba3.csproj.AssemblyReference.cache
+C:\Users\04-user06\source\repos\Laba3\Laba3\obj\Debug\Laba3.Form1.resources
+C:\Users\04-user06\source\repos\Laba3\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+C:\Users\04-user06\source\repos\Laba3\Laba3\obj\Debug\Laba3.csproj.GenerateResource.cache
+C:\Users\04-user06\source\repos\Laba3\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\04-user06\source\repos\Laba3\Laba3\obj\Debug\Laba3.exe
+C:\Users\04-user06\source\repos\Laba3\Laba3\obj\Debug\Laba3.pdb
