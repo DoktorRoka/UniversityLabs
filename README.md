@@ -17,7 +17,11 @@
  * [Пятая лабораторная, 5 вариант, задание 6](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba5Prog/Laba5Prog_task6)
 
 
+Графика
 
+[Третья лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba3_grafika)
+[Четвертая лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba4_grafika)
+[Пятая лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba5_grafika)
 
 
 
