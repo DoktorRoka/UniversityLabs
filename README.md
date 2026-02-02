@@ -20,10 +20,14 @@
 Графика
 
 [Третья лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba3_grafika)
+
 [Четвертая лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba4_grafika)
+
 [Пятая лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba5_grafika)
 
+[Шестая лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba6_grafika)
 
+[Седьмая лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba7_grafika)
 
 
 
