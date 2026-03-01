@@ -30,6 +30,9 @@
 [Седьмая лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Laba7_grafika)
 
 
+Пайтон
+
+[Первая лабораторная](https://github.com/DoktorRoka/UniversityLabs/tree/master/PythonLab1)
 
 
 
