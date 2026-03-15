@@ -33,6 +33,7 @@
 Пайтон
 
 [Первая лабораторная](https://github.com/DoktorRoka/UniversityLabs/tree/master/PythonLab1)
+[Вторая лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/PythonLab2)
 
 
 
