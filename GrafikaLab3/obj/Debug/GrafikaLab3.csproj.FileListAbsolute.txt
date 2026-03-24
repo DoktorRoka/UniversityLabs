@@ -1,0 +1,11 @@
+C:\Users\roka\source\repos\GrafikaLab3\GrafikaLab3\bin\Debug\GrafikaLab3.exe.config
+C:\Users\roka\source\repos\GrafikaLab3\GrafikaLab3\bin\Debug\GrafikaLab3.exe
+C:\Users\roka\source\repos\GrafikaLab3\GrafikaLab3\bin\Debug\GrafikaLab3.pdb
+C:\Users\roka\source\repos\GrafikaLab3\GrafikaLab3\obj\Debug\GrafikaLab3.csproj.AssemblyReference.cache
+C:\Users\roka\source\repos\GrafikaLab3\GrafikaLab3\obj\Debug\GrafikaLab3.Form1.resources
+C:\Users\roka\source\repos\GrafikaLab3\GrafikaLab3\obj\Debug\GrafikaLab3.Properties.Resources.resources
+C:\Users\roka\source\repos\GrafikaLab3\GrafikaLab3\obj\Debug\GrafikaLab3.csproj.GenerateResource.cache
+C:\Users\roka\source\repos\GrafikaLab3\GrafikaLab3\obj\Debug\GrafikaLab3.csproj.CoreCompileInputs.cache
+C:\Users\roka\source\repos\GrafikaLab3\GrafikaLab3\obj\Debug\GrafikaLab3.exe
+C:\Users\roka\source\repos\GrafikaLab3\GrafikaLab3\obj\Debug\GrafikaLab3.pdb
+C:\Users\roka\source\repos\GrafikaLab3\GrafikaLab3\obj\Debug\GrafikaLab3.exe.config
