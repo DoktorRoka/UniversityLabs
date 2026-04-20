@@ -38,6 +38,7 @@
 
 [Третья лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/Lab3Python)
 
+[Четвертая лабораторная, 5 вариант](https://github.com/DoktorRoka/UniversityLabs/tree/master/PythonLab4)
 
 
 ИВТ-1, 1 курс
