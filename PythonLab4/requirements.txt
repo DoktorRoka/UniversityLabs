@@ -1,0 +1,8 @@
+numpy
+sympy
+matplotlib
+pandas
+openpyxl
+requests
+sqlalchemy
+pymongo
